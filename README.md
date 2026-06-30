@@ -1,4 +1,4 @@
-# Hi, I'm Puripat (Shadow) 👋
+# Hi, I'm Puripat 👻👋
 
 > Software engineer who turns messy business operations into clean, scalable systems.
 
@@ -20,8 +20,6 @@ Reinforcement learning & on-chain (DeFi) systems — applying both in my senior 
 
 ### Projects
 - **Llaminet** — automated Uniswap V3 liquidity provision on Arbitrum, with reinforcement-learning rebalancing (Go · Python/PyTorch · Next.js).
-- **CU NEX – Activity Hub** — backend for the official university app serving 40,000+ students (Go · Fiber · GORM).
-- **Sports Court Booking** — reservation platform with a dynamic pricing engine, integrated into LINE OA.
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiishadow&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=768390&hide=contribs)
