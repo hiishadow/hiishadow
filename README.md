@@ -1,13 +1,3 @@
-<!--
-  ────────────────────────────────────────────────────────────────
-  Hi! This is your GitHub profile README.
-  It renders at the top of github.com/hiishadow
-
-  Anything marked  ✏️ EDIT  below is a placeholder — change it to
-  fit you, then commit. Everything is plain Markdown.
-  ────────────────────────────────────────────────────────────────
--->
-
 # Hi, I'm Puripat 👋
 
 > Developer in the making — learning the craft one commit at a time.  <!-- ✏️ EDIT: your one-line pitch -->
@@ -23,8 +13,7 @@ clean tooling, and building things that are simple and work well.
 ---
 
 ### 🧰 Tech & Tools
-<!-- ✏️ EDIT: add/remove badges to match what you actually use.
-     Find more at https://shields.io  —  format: badge/<label>-<color>?logo=<name> -->
+<!-- ✏️ EDIT: add/remove badges to match what you actually use. More at https://shields.io -->
 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -35,8 +24,7 @@ clean tooling, and building things that are simple and work well.
 ---
 
 ### 📊 A little activity
-<!-- This card auto-updates with YOUR real stats — nothing to configure.
-     Muted/transparent theme to keep things minimal. -->
+<!-- This card auto-updates with YOUR real stats — nothing to configure. -->
 
 ![Puripat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiishadow&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=768390&hide=contribs)
 
@@ -45,9 +33,17 @@ clean tooling, and building things that are simple and work well.
 ### 🔗 Connect
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:puripat.khomnoy@gmail.com)
-<!-- ✏️ EDIT: uncomment & fill these in when ready
+<!-- ✏️ EDIT: uncomment & fill in when ready
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=about-dot-me&logoColor=white)](https://your-site.com)
 -->
 
 <sub>Thanks for stopping by — always happy to connect. 🙌</sub>
+
+<!--
+  ────────────────────────────────────────────────────────────────
+  This is your GitHub profile README — it renders at the top of
+  github.com/hiishadow. Anything marked  ✏️ EDIT  is a placeholder;
+  change it to fit you, then commit. Everything is plain Markdown.
+  ────────────────────────────────────────────────────────────────
+-->
