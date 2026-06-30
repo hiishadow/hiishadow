@@ -1,49 +1,31 @@
-# Hi, I'm Puripat 👋
+# Hi, I'm Puripat (Shadow) 👋
 
-> Developer in the making — learning the craft one commit at a time.  <!-- ✏️ EDIT: your one-line pitch -->
+> Software engineer who turns messy business operations into clean, scalable systems.
 
-I'm getting into software development, with a soft spot for the terminal,
-clean tooling, and building things that are simple and work well.
+Information & Communication Engineering grad from Chulalongkorn University. Backend-leaning full-stack engineer — I build Go services, data pipelines, and real-world tooling across F&B, retail, and fintech, from offline-capable POS systems to on-chain liquidity bots.
 
-- 🌱 **Currently learning:** the fundamentals — shell, Git, and my first real projects  <!-- ✏️ EDIT -->
-- 🛠️ **Tinkering with:** my dev environment (Ghostty · zsh · starship · modern CLI tools)
-- 💬 **Ask me about:** anything terminal or beginner-dev related
-- 📫 **Reach me:** see the links below
+### Currently learning
+Reinforcement learning & on-chain (DeFi) systems — applying both in my senior project.
 
----
+### Tech & Tools
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-### 🧰 Tech & Tools
-<!-- ✏️ EDIT: add/remove badges to match what you actually use. More at https://shields.io -->
+### Projects
+- **Llaminet** — automated Uniswap V3 liquidity provision on Arbitrum, with reinforcement-learning rebalancing (Go · Python/PyTorch · Next.js).
+- **CU NEX – Activity Hub** — backend for the official university app serving 40,000+ students (Go · Fiber · GORM).
+- **Sports Court Booking** — reservation platform with a dynamic pricing engine, integrated into LINE OA.
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiishadow&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=768390&hide=contribs)
 
----
-
-### 📊 A little activity
-<!-- This card auto-updates with YOUR real stats — nothing to configure. -->
-
-![Puripat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiishadow&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=768390&hide=contribs)
-
----
-
-### 🔗 Connect
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:puripat.khomnoy@gmail.com)
-<!-- ✏️ EDIT: uncomment & fill in when ready
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=about-dot-me&logoColor=white)](https://your-site.com)
--->
-
-<sub>Thanks for stopping by — always happy to connect. 🙌</sub>
-
-<!--
-  ────────────────────────────────────────────────────────────────
-  This is your GitHub profile README — it renders at the top of
-  github.com/hiishadow. Anything marked  ✏️ EDIT  is a placeholder;
-  change it to fit you, then commit. Everything is plain Markdown.
-  ────────────────────────────────────────────────────────────────
--->
+### Connect
+- Email: [puripatk.work@gmail.com](mailto:puripatk.work@gmail.com)
+- LinkedIn: [linkedin.com/in/puripat-khumnoy](https://linkedin.com/in/puripat-khumnoy)
